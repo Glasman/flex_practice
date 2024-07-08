@@ -3,13 +3,21 @@ body {
 }
 
 div {
-    color:blanchedalmond;
+    background-color:rgb(8, 59, 47);
     /* margin: 0;
     display: flex;
     place-items: center;
-    min-width: 320px;
-    min-height: 100vh; */
+    /* min-width: 320px; */
+    min-height: 100vh; 
   }
+
+#div1 {
+    background-color: cornflowerblue;
+}
+
+#div2 {
+    background-color: aquamarine;
+}
 
 h1 {
     color: blue;
